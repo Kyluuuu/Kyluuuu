@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-# I am a passionate software
-engineer with experience in Java, TypeScript and Python!
+### I am a passionate software engineer with experience in Java, TypeScript and Python!
 
 Visit my website! : https://kyluuuu.github.io/WebsitePortfolio/
 
