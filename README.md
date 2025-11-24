@@ -2,7 +2,7 @@
 
 ### I am a passionate software engineer with experience in Java, TypeScript and Python!
 
-Visit my website! : https://kyluuuu.github.io/WebsitePortfolio/
+Visit my website! : https://kyluuuu.github.io/Website/
 
 
 - 🔭 I’m currently working on an AI powered website builder, CRSM software, multiple games and my website!
